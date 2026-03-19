@@ -9,6 +9,7 @@ class LuaAT51 < Formula
   revision 8
 
   bottle do
+    sha256 cellar: :any,                 arm64_tahoe:    "9e602f4460838cfe3ff63089a20a0739b2a29ed5ac168cedf75c4a39205095aa"
     sha256 cellar: :any,                 arm64_sonoma:   "221199ff4dc562096e2a5132a4253932133496ab26e77e433fffb98134ed2dae"
     sha256 cellar: :any,                 arm64_ventura:  "0a376241fb0501719b36ebd1f2124e1c32b784bc59897c824f54567614d24ed5"
     sha256 cellar: :any,                 arm64_monterey: "de6f49207593ea1ff60752fbda844d4be34d92de796f758c9e0e5f3dd329fab7"
