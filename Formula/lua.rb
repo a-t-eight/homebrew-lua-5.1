@@ -1,4 +1,4 @@
-class LuaAT51 < Formula
+class LuaAT5.1 < Formula
   # 5.3 is not fully backwards compatible so we must retain 2 Luas for now.
   desc "Powerful, lightweight programming language (v5.1.5)"
   homepage "https://www.lua.org/"
